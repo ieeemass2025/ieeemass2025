@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <!-- Replace your-site.github.io with your GitHub Pages URL or custom domain -->
+
+   <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/</loc>
+      <lastmod>2024-11-23</lastmod>
+      <priority>1.0</priority>
+   </url>
+
+   <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/index.html</loc>
+      <lastmod>2024-11-23</lastmod>
+      <priority>1.0</priority>
+   </url>
+
+   <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/about.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+   <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/registration.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/venue.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/patrons.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/callforpapers.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/callforposters.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/submission.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/callforworkshopproposals.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/listofworkshops.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/steeringcommittee.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/organizingcommittee.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/programcommittee.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/programataglance.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/technicalsessions.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/keynote.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>
+
+  <url>
+      <loc>https://ieeemass2025.github.io/ieeemass2025/acceptedpapers.html</loc>
+      <lastmod>2024-11-20</lastmod>
+      <priority>0.8</priority>
+   </url>  
+
+</urlset>
