@@ -32,6 +32,10 @@ ul li {
   list-style: none;
 }
 
+.bold-markers li::marker {
+  font-weight: bold;
+}
+
 a:hover {
   text-decoration: none;
 }
